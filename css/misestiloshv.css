@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font: bold 20px verdana, sans-serif;
+}
+
+h2 {
+    font: bold 14px verdana, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font: bold 13px verdana, sans-serif;
+}
+
+body {
+    text-align: left;
+    background: #AFFF64;
+    background-attachment: fixed;
+}
+
+div {
+    width: 100px;
+    margin: 20px;
+    padding: 40px;
+    border: 1.2px solid #000000;
+
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#agrupar {
+    width: 980px;
+    margin: 30px auto;
+    text-align: left;
+    background: #FFFFF9;
+}
+
+#cabecera {
+    background: #DDDDDD;
+    border: solid 1.5px #000000;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+#imagen {
+    padding: 20px;
+    text-align: center;
+}
+
+fieldset{
+    margin: 40px;
+    margin-top: 20px;
+    padding: 30px;
+    border: dashed 1.5px black;
+    border-radius: 50px;
+    background: #DDDDDD;
+}
+
+legend{
+    padding: 10px;
+    border: solid 1.5px black;
+    border-radius: 20px;
+    font: bold 14px verdana, sans-serif;
+    background: #AFFF64;
+}
+
+span {
+    font: bold 15px arial, sans-serif;
+}
+
+#perfil{
+    text-align: justify;
+}
